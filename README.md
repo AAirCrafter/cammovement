@@ -5,4 +5,4 @@ cmds:
 /toggleMove
 
 subcmds:
-<direction x> <direction y> <direction z> 
+\<direction x\> \<direction y\> \<direction z\> 
